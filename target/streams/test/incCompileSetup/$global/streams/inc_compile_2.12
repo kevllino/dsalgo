@@ -1,0 +1,113 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/keid/Nitro+/dsalgo/target/scala-2.12/test-classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> /Users/keid/Nitro+/dsalgo/target/scala-2.12/test-classes/StringSpecification$.class
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> /Users/keid/Nitro+/dsalgo/target/scala-2.12/test-classes/StringSpecification.class
+binary dependencies:
+3 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> /Users/keid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> /Users/keid/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> StringSpecification
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> StringSpecification$
+used names:
+30 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> &&
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> +
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> <init>
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> ==
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> >=
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Arbitrary
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Predef
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Pretty
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Prop
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Properties
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> Shrink
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> String
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> StringSpecification
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> a
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> arbString
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> b
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> c
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> forAll
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> length
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> org
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> prettyString
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> propBoolean
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> property
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> scala
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> scalacheck
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> shrinkString
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> startsWith
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> substring
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> update
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> util
+product stamps:
+2 items
+/Users/keid/Nitro+/dsalgo/target/scala-2.12/test-classes/StringSpecification$.class -> lastModified(1489762771000)
+/Users/keid/Nitro+/dsalgo/target/scala-2.12/test-classes/StringSpecification.class -> lastModified(1489762771000)
+source stamps:
+1 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> hash(88e2874730da526746e85883f5905d8278393fa6)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459498886000)
+/Users/keid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/Users/keid/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar -> lastModified(1478009781000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.String
+/Users/keid/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Predef$
+/Users/keid/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar -> org.scalacheck.Properties
+internal apis:
+1 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDzMuu4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCRGK0N0AAZub3RpZnlzcQB+AAxtDuthdAAPY2hlY2skZGVmYXVsdCQxc3EAfgAMUen9z3QABG5hbWVzcQB+AAxgaCBUdAAEd2FpdHNxAH4ADMCV0SF0AA0kYXNJbnN0YW5jZU9mc3EAfgAMKCEceXQABmVxdWFsc3NxAH4ADLsJpMV0ABJvdmVycmlkZVBhcmFtZXRlcnNzcQB+AAyEfShPdAAMYXNJbnN0YW5jZU9mc3EAfgAMQYnE43QADHN5bmNocm9uaXplZHNxAH4ADNVEnrd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMW8EUpnQABG1haW5zcQB+AAzcOt7udAAJbm90aWZ5QWxsc3EAfgAMexuPQ3QADGlzSW5zdGFuY2VPZnNxAH4ADEAe8Y90AAY8aW5pdD5zcQB+AAyXGdtQdAAKcHJvcGVydGllc3NxAH4ADD4CW4F0AAVjaGVja3NxAH4ADExkww50ABFQcm9wZXJ0eVNwZWNpZmllcnNxAH4ADMcXObN0AAI9PXNxAH4ADFeFxMp0AAVjbG9uZXNxAH4ADPvGCht0AAdpbmNsdWRlc3EAfgAM12OrAnQACHRvU3RyaW5nc3EAfgAMayYFsnQACHByb3BlcnR5c3EAfgAMDBHT+XQAE1N0cmluZ1NwZWNpZmljYXRpb25zcQB+AAw+BcJDdAACIT1zcQB+AAwSp298dAAIZ2V0Q2xhc3NzcQB+AAzd5nA1dAAGdXBkYXRlc3EAfgAMr6EemXQAAm5lc3EAfgAMJ8BwWnQAAmVxc3EAfgAMxIPZ6XQAAiMjc3EAfgAMpYHu2XQACGZpbmFsaXplc3EAfgAMD8uVRXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA7dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBsAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHNzcQB+AGwBdXEAfgBQAAAAAHBzcQB+AGwBdXEAfgBQAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBWcQB+AF91cQB+AGAAAAAAc3EAfgBiAHEAfgAjdXEAfgBkAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AfXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZ3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AhFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AcnNxAH4Ag3QABUFycmF5cQB+AIl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ag3QABlN0cmluZ3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCUcHNxAH4AbAF1cQB+AKgAAAADc3EAfgCDdAAKUHJvcGVydGllc3NxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AANvcmdzcQB+AI90AApzY2FsYWNoZWNrcQB+AJRzcQB+AIN0AAZPYmplY3RxAH4ArHNxAH4Ag3QAA0FueXEAfgCJcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWtzH0xp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4L1VzZXJzL2tlaWQvTml0cm8rL2RzYWxnby90YXJnZXQvc2NhbGEtMi4xMi90ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSI4odHMNpSZ0boWIP1kF2CeDk/pg==
+external apis:
+0 items
+source infos:
+1 items
+/Users/keid/Nitro+/dsalgo/src/test/scala/StringSpecification.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWtzCQ7F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9rZWlkL05pdHJvKy9kc2FsZ28vdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWtzHN3F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9rZWlkL05pdHJvKy9kc2FsZ28vdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWtzH0xp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9rZWlkL05pdHJvKy9kc2FsZ28vdGFyZ2V0L3NjYWxhLTIuMTIvdGVzdC1jbGFzc2VzdAABLw==
