@@ -19,11 +19,11 @@ object Sorting {
     }
   }
 
-  def quickSort(xs: List[Int]): List[Int] = xs match {
+  def quickSort(lista: List[Int]): List[Int] = lista match {
     case Nil => Nil
     case pivot :: rest => {
-     val (smaller, equal,larger) = partition(pivot, rest, Nil, Nil, Nil)
-      quickSort(smaller) ++ List(pivot) ++  equal ++ quickSort(larger)
+     val (smaller, equal,larger) = partition(pivot, lista, Nil, Nil, Nil)
+      quickSort(smaller) ++ equal ++ quickSort(larger)
     }
   }
 

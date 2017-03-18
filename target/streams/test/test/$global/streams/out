@@ -1,7 +1,12 @@
-[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification, org.scalacheck.ScalaCheckFramework$$anon$3@2daad92a, false, [SuiteSelector])[0m
-[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-2, org.scalacheck.ScalaCheckFramework$$anon$3@2daad92a, false, [SuiteSelector])[0m
-[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-1, org.scalacheck.ScalaCheckFramework$$anon$3@2daad92a, false, [SuiteSelector])[0m
-[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-0, org.scalacheck.ScalaCheckFramework$$anon$3@2daad92a, false, [SuiteSelector])[0m
-[0m[[0minfo[0m] [0mPassed: Total 3, Failed 0, Errors 0, Passed 3[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(searching.SearchSpecification, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(searching.SearchSpecification-0, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-0, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-2, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(StringSpecification-1, org.scalacheck.ScalaCheckFramework$$anon$3@6644366c, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mFailed: Total 4, Failed 1, Errors 0, Passed 3[0m
 [0m[[0mdebug[0m] [0mPassed tests:[0m
 [0m[[0mdebug[0m] [0m	StringSpecification[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	searching.SearchSpecification[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

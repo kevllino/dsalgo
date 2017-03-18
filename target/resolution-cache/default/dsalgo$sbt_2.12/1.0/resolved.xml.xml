@@ -4,7 +4,7 @@
 		module="dsalgo$sbt_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170317145601"
+		publication="20170318112832"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

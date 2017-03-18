@@ -1,6 +1,11 @@
 #Successful Tests
-#Fri Mar 17 14:59:31 GMT 2017
-StringSpecification=1489762771284
-StringSpecification-2=1489762771507
-StringSpecification-1=1489762771507
-StringSpecification-0=1489762771507
+#Sat Mar 18 17:23:42 GMT 2017
+sorting.SortingSpecification-1=1489857822344
+sorting.SortingSpecification-0=1489857822344
+searching.SearchSpecification=1489837997328
+StringSpecification=1489773952828
+sorting.SortingSpecification=1489857822113
+StringSpecification-2=1489773953049
+StringSpecification-1=1489773953047
+StringSpecification-0=1489773953046
+searching.SearchingTest=1489837674292
